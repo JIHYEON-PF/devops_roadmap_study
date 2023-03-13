@@ -1,12 +1,4 @@
----
-attachments: [Clipboard_2023-03-12-16-17-12.png, Clipboard_2023-03-12-17-16-28.png]
-tags: [study]
-title: 사내 스터디 RoadMap 내용 정리
-created: '2023-03-12T05:05:19.022Z'
-modified: '2023-03-13T01:59:04.126Z'
----
-
-# 사내 스터디 RoadMap 내용 정리
+# Week1. DevOps RoadMap _Language_
 #### ref. https://roadmap.sh/devops
 
 ## Subtitle 1. Programming Language
@@ -206,12 +198,10 @@ modified: '2023-03-13T01:59:04.126Z'
   2. 컴파일러(javac.exe)가 바이트 코드로 변환(.class 확장자의 클래스 파일)
   3. 런처(java.exe)로 자바 가상 머신을 구동
   4. 자바 가상 머신(JVM)이 바이트 코드를 해석하여 자바 프로그램이 실행
-  <figure>
-    <img style="width:100%;" src="@attachment/Clipboard_2023-03-12-16-17-12.png">
-    <figcaption style="text-align: center";> 
-      자바 프로그램 구동 원리 Ref. <a href="https://dongjin94.tistory.com/177">https://dongjin94.tistory.com/177</a>
-    </figcation>
-  </figure>
+  
+  ![Clipboard_2023-03-12-16-17-12](https://user-images.githubusercontent.com/108737977/224591942-b796a1c7-f778-47fd-98f0-9262982eeee0.png)
+
+  *자바 프로그램 구동 원리 Ref. <a href="https://dongjin94.tistory.com/177">https://dongjin94.tistory.com/177</a>*
 
 ### 5. 매력 포인트
   1. 플랫폼의 구애를 받지 않음
